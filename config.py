@@ -9,6 +9,7 @@ SCALE_SCALE = 100
 DATASET = 'support'
 LR = 1e-05
 EPOCHS = 2000
+TRAIN_EPOCHS = 300
 BATCH_SIZE = 32
 
 random_seed = 42
